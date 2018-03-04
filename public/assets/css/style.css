@@ -1,0 +1,13 @@
+body {
+	background: url("../images/background.jpg");
+	/*background: red;*/
+	background-size: cover;
+	/*opacity: .02*/
+}
+
+h1,
+h2,
+h4{
+	color: white;
+
+}
